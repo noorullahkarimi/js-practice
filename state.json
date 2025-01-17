@@ -1,4 +1,4 @@
 {
-"state" : "false",
-"source" : "sudo reboot"
+"state" : "true",
+"source" : ""
 }
